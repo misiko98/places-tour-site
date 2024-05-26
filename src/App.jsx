@@ -54,6 +54,7 @@ const App = () => {
       return [place, ...prevPickedPlaces];
     });
 
+    // const stored
     if (storedIds.indexOf(id) === -1) {
       localStorage.setItem(
         'selectedPlaces',

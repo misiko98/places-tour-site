@@ -1,8 +1,15 @@
-# React + Vite
+# Places Tour Site
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a web application built with JavaScript, React, and Tailwind CSS. The project allows users to select and manage places they would like to visit. It's my own implementation of a project initially developed by Jonas Schmedtmann on Udemy.
 
-Currently, two official plugins are available:
+## Future Plans
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+As I continue to learn, I plan to refactor the local storage functionality using a custom hook in the future.
+
+## Acknowledgements
+
+A special thanks to Jonas Schmedtmann for his comprehensive courses on Udemy which have been instrumental in my learning journey.
+
+## License
+
+This project is open source and available under the MIT License.
